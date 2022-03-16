@@ -47,3 +47,5 @@ Dentro de esta BD se encuentran las siguientes tablas relacionales:
 * Offices la cual detalla la información de las oficinas
 * Payments la cual detalla la información de pago
 
+[Video exposición](https://eafit-my.sharepoint.com/:v:/r/personal/jjmunozm_eafit_edu_co/Documents/Grabaciones/grabaci%C3%B3n%20trabajo1-20220310_112004-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=YXwcc1)
+
